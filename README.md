@@ -9,4 +9,4 @@ This repositories contain all mini Python 3. projects based on real life applica
 Project list:
 
  1. Capitalize
- 2. 
+ 2. Reverse strings

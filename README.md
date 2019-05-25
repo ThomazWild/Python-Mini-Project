@@ -10,3 +10,4 @@ Project list:
 
  1. Capitalize
  2. Reverse strings
+ 3. Piramid 2
